@@ -1,4 +1,4 @@
-<h1 align="left">Hi , I'm Manav Verma</h1>
+<h1 align="left">Hi <img src = "https://media2.giphy.com/media/rJrUK5ywSuOu0D9W81/giphy.gif?cid=ecf05e47n1unmn9dqxsi2ftqywxxgnw4fb8xzicsbe07hya3&rid=giphy.gif&ct=g" width = "25px" height = "35px" alt="hi">, I'm Manav Verma</h1>
 <h3 align="left">I am a passionate Front end Web Developer and Android Developer.</h3>
 
 - 👯 I’m looking to collaborate on **Android Development.**
@@ -9,7 +9,7 @@
 
 <br />
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://camo.githubusercontent.com/505c2c03a5b20dcc664ce9a0dbdce638ea0a8a85fc39e613c0f4a2f545dd67b1/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966" width="780px" height="491px" />
 
 ### Connect With Me:
 
