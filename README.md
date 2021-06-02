@@ -8,7 +8,7 @@
 - 📫 How to reach me - **manavverma51@gmail.com** 
 
 ### Connect With Me:
-[img align ="letf" alt="manavverma51@gmail.com" width = "22px" src = "
+[<img align ="letf" alt="manavverma51@gmail.com"| Gmail" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" /> [gmail]
 [<img align="left" alt="Manav Verma| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="manavv_verma | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -31,3 +31,4 @@
 
 [instagram]: https://instagram.com/manavv_verma
 [linkedin]: https://www.linkedin.com/in/manav-verma-263761201/
+[gmail] : https://github.com/Manav66/Manav66/blob/main/manavverma51@gmail.com
