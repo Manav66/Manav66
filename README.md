@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Manav Verma</h1>
+<h1 align="left">Hi , I'm Manav Verma</h1>
 <h3 align="left">I am a passionate Front end Web Developer and Android Developer.</h3>
 
 - 👯 I’m looking to collaborate on **Android Development.**
@@ -6,6 +6,10 @@
 - 📝 I regularly write blogs on Cyber Security and International hacking groups. My Medium Profile Link - [https://medium.com/@manavvermaa666](https://medium.com/@manavvermaa666)
 
 - 📫 How to reach me - **manavverma51@gmail.com** 
+
+<br />
+
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 
 ### Connect With Me:
 
