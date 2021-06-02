@@ -5,7 +5,7 @@
 
 - 📝 I regularly write articles on Cyber Security and International hacking groups. My Medium Profile Link - [https://medium.com/@manavvermaa666](https://medium.com/@manavvermaa666)
 
-- 📫 How to reach me - **manavverma51@gmail.com**
+- 📫 How to reach me - **manavverma51@gmail.com** 
 
 ### Connect With Me:
 
