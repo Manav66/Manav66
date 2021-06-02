@@ -9,7 +9,7 @@
 
 ### Connect With Me:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>][(https://www.instagram.com/manavv_verma/)  ]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>][instagram]
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>][(manavverma51@gmail.com)  ]
  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>(https://www.linkedin.com/in/https://www.linkedin.com/in/manav-verma-263761201//)  
 
@@ -18,4 +18,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manav66&show_icons=true&locale=en" alt="manav66" /></p>
 
+[instagram] : https://www.instagram.com/manavv_verma
 
