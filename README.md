@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Manav Verma</h1>
-<h3 align="left">A passionate Front end Web Developer and Android Developer.</h3>
+<h3 align="left">I am a passionate Front end Web Developer and Android Developer.</h3>
 
 - 👯 I’m looking to collaborate on **Android Development.**
 
