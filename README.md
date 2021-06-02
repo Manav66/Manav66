@@ -3,14 +3,14 @@
 
 - 👯 I’m looking to collaborate on **Android Development.**
 
-- 📝 I regularly write articles on Cyber Security and International hacking groups. My Medium Profile Link - [https://medium.com/@manavvermaa666](https://medium.com/@manavvermaa666)
+- 📝 I regularly write blogs on Cyber Security and International hacking groups. My Medium Profile Link - [https://medium.com/@manavvermaa666](https://medium.com/@manavvermaa666)
 
 - 📫 How to reach me - **manavverma51@gmail.com** 
 
 ### Connect With Me:
-
+[img align ="letf" alt="manavverma51@gmail.com" width = "22px" src = "
 [<img align="left" alt="Manav Verma| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="manavv_verma | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
