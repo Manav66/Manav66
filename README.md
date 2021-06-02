@@ -8,10 +8,10 @@
 - 📫 How to reach me - **manavverma51@gmail.com** 
 
 ### Connect With Me:
-[<img align="left" alt="Manav Verma| Gmail" width="30px" height = "35px"src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />]
-[<img align="left" alt="Manav Verma| LinkedIn" width="30px" height = "35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="manavv_verma | Instagram"  width="30px" height = "35px" src="https://i.pinimg.com/originals/ce/10/4e/ce104e6527a9a9ea6a725b558a56ef9b.png" />][instagram]
-[<img align="left" alt="manavv_verma | Facebook" width="30px" height = "35px" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" />][facebook]
+
+[<img align="left" alt="Manav Verma| LinkedIn" width="35px" height = "35px" src="https://cdn0.iconfinder.com/data/icons/flat-social-media-icons-set-round-style-1/550/linkedin-512.png" />][linkedin]
+[<img align="left" alt="manavv_verma | Instagram"  width="35px" height = "35px" src="https://i.pinimg.com/originals/ce/10/4e/ce104e6527a9a9ea6a725b558a56ef9b.png" />][instagram]
+[<img align="left" alt="manavv_verma | Facebook" width="35px" height = "35px" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" />][facebook]
 
 <br />
 
@@ -33,4 +33,3 @@
 [instagram]: https://instagram.com/manavv_verma
 [linkedin]: https://www.linkedin.com/in/manav-verma-263761201/
 [facebook]: https://www.facebook.com/manavverma51/
-[gmail]: https://github.com/Manav66/Manav66/blob/main/manavverma51@gmail.com
