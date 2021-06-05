@@ -1,4 +1,4 @@
-<h1 align="left">Hi <img src = "https://media2.giphy.com/media/rJrUK5ywSuOu0D9W81/giphy.gif?cid=ecf05e47n1unmn9dqxsi2ftqywxxgnw4fb8xzicsbe07hya3&rid=giphy.gif&ct=g" width = "25px" height = "35px" alt="hi">, I'm Manav Verma</h1>
+<h1 align="left">Hi <img src = "https://media2.giphy.com/media/rJrUK5ywSuOu0D9W81/giphy.gif?cid=ecf05e47n1unmn9dqxsi2ftqywxxgnw4fb8xzicsbe07hya3&rid=giphy.gif&ct=g"  width = "25px" height = "35px" alt="hi">, I'm Manav Verma</h1>
 <h3 align="left">I am a passionate Front end Web Developer and Android Developer.</h3>
 
 
