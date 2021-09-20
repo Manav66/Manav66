@@ -12,15 +12,18 @@
 
 <img src="https://camo.githubusercontent.com/505c2c03a5b20dcc664ce9a0dbdce638ea0a8a85fc39e613c0f4a2f545dd67b1/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3638302f302a37513379765349765f7430696f4a2d5a2e676966" width="780px" height="491px" />
 
-### Connect With Me:
+<h2 align="left">Connect With Me:</h2>
+<br />
 
 [<img align="left" alt="Manav Verma| LinkedIn" width="50px" src="https://cdn0.iconfinder.com/data/icons/flat-social-media-icons-set-round-style-1/550/linkedin-512.png" />][linkedin]
 [<img align="left" alt="manavv_verma | Instagram"  width="50px" src="https://i.pinimg.com/originals/ce/10/4e/ce104e6527a9a9ea6a725b558a56ef9b.png" />][instagram]
 [<img align="left" alt="manavv_verma | Facebook" width="50px" src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/facebook-512.png" />][facebook]
 
 <br />
+<br />
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
+<br />
 <p align="left"> <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50"/> </a>
 <a align="left" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50""/> </a>
 <a align="left" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50"/> </a>
@@ -33,6 +36,8 @@
 <a align="left" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50"/> </a> 
 <a align="left" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50"/> </a>  
 </p>
+  
+<br />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=manav66&show_icons=true&locale=en" alt="manav66" /></p>
 
