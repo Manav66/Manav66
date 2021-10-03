@@ -1,4 +1,4 @@
-<h1 align="left">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Manav Verma</h1>
+<h1 align="left">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Manav Verma</h1>
 <h3 align="left">I am a passionate Front end Web Developer and Android Developer.</h3>
 
 
